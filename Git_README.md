@@ -3,7 +3,12 @@
 ## Clone:
 
 ### From URL:
+Specific branch:
 
+git clone -b <branchname> <remote-repo-url>
+  
+Clone all branches:
+  
 `git clone https://<username>@github.com/<userid>/<reponame>`
 
 
