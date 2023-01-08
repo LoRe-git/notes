@@ -33,6 +33,15 @@ Commit: `git commit -m "<Commit message>"`
 push: `git push`
 
 
+## Checkout
+  To switch to new remote branch
+  
+  `git fetch remote`
+  
+  `git branch -a`
+  
+  `git checkout -b <remote_branch_name> origin/<remote_branch_name>`
+  
 ## Config:
 
 Changing Committer Name & Email Globally: 
